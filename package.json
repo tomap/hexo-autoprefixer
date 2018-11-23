@@ -31,7 +31,7 @@
     "autoprefixer": "9.3.1",
     "minimatch": "^3.0.2",
     "object-assign": "^2.0.0",
-    "postcss": "5.0.12"
+    "postcss": "7.0.6"
   },
   "devDependencies": {
     "chai": "^4.2.0",
